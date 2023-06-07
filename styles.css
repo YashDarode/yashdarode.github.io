@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+
+}
+
+
+span {
+    margin-left: 40%;
+}
+
+.center {
+    text-align: center;
+    margin: 10%;
+}
+
+.Content {
+    float: left;
+    margin-right: 10%;
+    margin-left:20%;
+
+}
+
+.img {
+     float:left;
+     margin-right: 10%;
+}
+.left{
+    display: flex;
+    float: right;
+}
+.c{
+    display: flex;
+    
+}
+h5{
+    float: left;
+    margin-right: 20%;
+    margin-left:15%;
+
+}
+
